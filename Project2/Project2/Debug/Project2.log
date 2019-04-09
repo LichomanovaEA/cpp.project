@@ -1,0 +1,10 @@
+﻿  Proga_s_nasledovaniem_klassov.cpp
+e:\cppproject\project2\project2\header.h(14): error C2039: cout: не является членом "std"
+  e:\cppproject\project2\project2\predefined c++ types (compiler internal)(254): note:  см. объявление "std"
+e:\cppproject\project2\project2\header.h(14): error C2065: cout: необъявленный идентификатор
+e:\cppproject\project2\project2\header.h(14): error C2065: endl: необъявленный идентификатор
+e:\cppproject\project2\project2\header.h(15): error C2065: cout: необъявленный идентификатор
+e:\cppproject\project2\project2\header.h(15): error C2065: endl: необъявленный идентификатор
+e:\cppproject\project2\project2\header.h(16): warning C4018: <: несоответствие типов со знаком и без знака
+e:\cppproject\project2\project2\header.h(17): error C2065: cout: необъявленный идентификатор
+e:\cppproject\project2\project2\header.h(17): error C2065: endl: необъявленный идентификатор
